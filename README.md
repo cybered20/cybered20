@@ -4,7 +4,7 @@ This repository was created to teach you the basics of creating and managing a g
 ## Step 1 - Create your repository
 After creating an account on a github, you'll be presented with a window similar to this one.
 
-![dashboard](pictures/Git11.png)
+![dashboard](pictures/Git0.png)
 
 Clicking on your profile in the top right corner will let you navigate to your repositories.
 
